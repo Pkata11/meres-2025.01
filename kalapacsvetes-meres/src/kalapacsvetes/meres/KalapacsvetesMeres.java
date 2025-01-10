@@ -13,7 +13,10 @@ public class KalapacsvetesMeres {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+      
+    System.out.println("4. feladat:");
+    System.out.println("A forrásfájlban szereplő dobások száma: " + sportolok.size());
     }
+    
     
 }
